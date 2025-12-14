@@ -14,7 +14,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'https://e-mart-snowy.vercel.app/',
+  origin: 'https://e-mart-snowy.vercel.app',
    methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true
 }));
