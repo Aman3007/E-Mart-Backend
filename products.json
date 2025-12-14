@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "organic-whole-milk",
+    "title": "Organic Whole Milk",
+    "brand": "Organic Valley",
+    "category": "Dairy",
+    "price": 5.99,
+    "rating": 4.7,
+    "description": "Fresh organic whole milk from grass-fed cows. Rich and creamy taste perfect for drinking or cooking.",
+    "stock": 150,
+    "image": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
+    "reviews": [
+      {
+        "user": "Sarah M.",
+        "comment": "Best milk I've ever tasted! So fresh and creamy.",
+        "rating": 5,
+        "date": "2024-11-15T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "free-range-eggs-dozen",
+    "title": "Free Range Eggs - Dozen",
+    "brand": "Happy Hen Farms",
+    "category": "Dairy & Eggs",
+    "price": 6.49,
+    "rating": 4.8,
+    "description": "Farm fresh free-range eggs from happy hens. Large brown eggs with rich, golden yolks.",
+    "stock": 200,
+    "image": "https://images.pexels.com/photos/1556707/pexels-photo-1556707.jpeg",
+    "reviews": [
+      {
+        "user": "Emily R.",
+        "comment": "The yolks are so orange! Delicious eggs.",
+        "rating": 5,
+        "date": "2024-11-18T09:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "sourdough-bread",
+    "title": "Artisan Sourdough Bread",
+    "brand": "Baker's Choice",
+    "category": "Bakery",
+    "price": 4.99,
+    "rating": 4.6,
+    "description": "Handcrafted sourdough bread with a crispy crust and soft interior. Made with organic flour and natural starter.",
+    "stock": 85,
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg",
+    "reviews": [
+      {
+        "user": "Mike P.",
+        "comment": "Perfect texture and tangy flavor!",
+        "rating": 5,
+        "date": "2024-11-20T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "organic-bananas",
+    "title": "Organic Bananas",
+    "brand": "Fresh Farms",
+    "category": "Fruits",
+    "price": 1.99,
+    "rating": 4.5,
+    "description": "Sweet organic bananas, perfect for snacking or smoothies. Sold per pound.",
+    "stock": 300,
+    "image": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg",
+    "reviews": [
+      {
+        "user": "Lisa K.",
+        "comment": "Always fresh and ripe!",
+        "rating": 5,
+        "date": "2024-11-19T12:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "fresh-strawberries",
+    "title": "Fresh Strawberries",
+    "brand": "Berry Best",
+    "category": "Fruits",
+    "price": 4.49,
+    "rating": 4.7,
+    "description": "Sweet and juicy strawberries. Perfect for desserts or eating fresh. 1 lb container.",
+    "stock": 120,
+    "image": "https://images.pexels.com/photos/46174/strawberries-berries-fruit-freshness-46174.jpeg",
+    "reviews": [
+      {
+        "user": "Anna T.",
+        "comment": "So sweet and fresh!",
+        "rating": 5,
+        "date": "2024-11-17T15:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "organic-spinach",
+    "title": "Organic Baby Spinach",
+    "brand": "Green Valley",
+    "category": "Vegetables",
+    "price": 3.99,
+    "rating": 4.6,
+    "description": "Tender organic baby spinach leaves. Great for salads and smoothies. 5 oz package.",
+    "stock": 180,
+    "image": "https://images.pexels.com/photos/2325843/pexels-photo-2325843.jpeg",
+    "reviews": [
+      {
+        "user": "Tom W.",
+        "comment": "Very fresh and clean!",
+        "rating": 5,
+        "date": "2024-11-16T11:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "roma-tomatoes",
+    "title": "Roma Tomatoes",
+    "brand": "Farm Fresh",
+    "category": "Vegetables",
+    "price": 2.99,
+    "rating": 4.4,
+    "description": "Fresh Roma tomatoes, perfect for sauces and salads. Sold per pound.",
+    "stock": 250,
+    "image": "https://images.pexels.com/photos/533280/pexels-photo-533280.jpeg",
+    "reviews": [
+      {
+        "user": "Maria G.",
+        "comment": "Great for making pasta sauce!",
+        "rating": 4,
+        "date": "2024-11-14T16:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "organic-carrots",
+    "title": "Organic Carrots",
+    "brand": "Root Harvest",
+    "category": "Vegetables",
+    "price": 2.49,
+    "rating": 4.5,
+    "description": "Crisp organic carrots. Great for snacking, roasting, or juicing. 2 lb bag.",
+    "stock": 200,
+    "image": "https://images.pexels.com/photos/3650647/pexels-photo-3650647.jpeg",
+    "reviews": [
+      {
+        "user": "David L.",
+        "comment": "Sweet and crunchy!",
+        "rating": 5,
+        "date": "2024-11-13T10:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "chicken-breast",
+    "title": "Boneless Chicken Breast",
+    "brand": "Farm Fresh Poultry",
+    "category": "Meat & Poultry",
+    "price": 9.99,
+    "rating": 4.7,
+    "description": "Fresh boneless, skinless chicken breast. No hormones or antibiotics. Per pound.",
+    "stock": 95,
+    "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg",
+    "reviews": [
+      {
+        "user": "Jennifer H.",
+        "comment": "Very tender and fresh!",
+        "rating": 5,
+        "date": "2024-11-21T09:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "ground-beef",
+    "title": "Grass-Fed Ground Beef",
+    "brand": "Premium Meats",
+    "category": "Meat & Poultry",
+    "price": 8.99,
+    "rating": 4.8,
+    "description": "85% lean grass-fed ground beef. Perfect for burgers, tacos, and more. Per pound.",
+    "stock": 110,
+    "image": "https://images.pexels.com/photos/3688/food-dinner-lunch-unhealthy.jpg",
+    "reviews": [
+      {
+        "user": "Robert B.",
+        "comment": "Best ground beef for burgers!",
+        "rating": 5,
+        "date": "2024-11-12T14:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "wild-salmon-fillet",
+    "title": "Wild Caught Salmon Fillet",
+    "brand": "Ocean's Best",
+    "category": "Seafood",
+    "price": 15.99,
+    "rating": 4.9,
+    "description": "Premium wild-caught salmon fillet. Rich in omega-3s. Fresh, never frozen.",
+    "stock": 65,
+    "image": "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg",
+    "reviews": [
+      {
+        "user": "Patricia S.",
+        "comment": "Absolutely delicious and fresh!",
+        "rating": 5,
+        "date": "2024-11-20T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "cheddar-cheese",
+    "title": "Sharp Cheddar Cheese",
+    "brand": "Dairy Delights",
+    "category": "Dairy",
+    "price": 6.99,
+    "rating": 4.6,
+    "description": "Aged sharp cheddar cheese. Rich, bold flavor. 8 oz block.",
+    "stock": 140,
+    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg",
+    "reviews": [
+      {
+        "user": "Chris M.",
+        "comment": "Perfect sharpness!",
+        "rating": 5,
+        "date": "2024-11-18T13:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "greek-yogurt",
+    "title": "Plain Greek Yogurt",
+    "brand": "Yoplait",
+    "category": "Dairy",
+    "price": 4.99,
+    "rating": 4.7,
+    "description": "Creamy plain Greek yogurt. High in protein, perfect for breakfast or smoothies. 32 oz.",
+    "stock": 170,
+    "image": "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg",
+    "reviews": [
+      {
+        "user": "Amanda K.",
+        "comment": "So creamy and thick!",
+        "rating": 5,
+        "date": "2024-11-17T08:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "whole-wheat-pasta",
+    "title": "Whole Wheat Pasta",
+    "brand": "Barilla",
+    "category": "Pasta & Grains",
+    "price": 2.49,
+    "rating": 4.5,
+    "description": "Healthy whole wheat pasta. Perfect texture when cooked. 16 oz box.",
+    "stock": 220,
+    "image": "https://images.pexels.com/photos/1438672/pexels-photo-1438672.jpeg",
+    "reviews": [
+      {
+        "user": "Michael R.",
+        "comment": "Good healthy alternative!",
+        "rating": 4,
+        "date": "2024-11-15T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "brown-rice",
+    "title": "Organic Brown Rice",
+    "brand": "Lundberg",
+    "category": "Pasta & Grains",
+    "price": 5.99,
+    "rating": 4.6,
+    "description": "Nutritious organic long-grain brown rice. Fluffy and flavorful. 2 lb bag.",
+    "stock": 150,
+    "image": "https://images.pexels.com/photos/4518654/pexels-photo-4518654.jpeg",
+    "reviews": [
+      {
+        "user": "Sandra P.",
+        "comment": "Cooks perfectly every time!",
+        "rating": 5,
+        "date": "2024-11-16T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "quinoa",
+    "title": "Organic Quinoa",
+    "brand": "Ancient Harvest",
+    "category": "Pasta & Grains",
+    "price": 7.99,
+    "rating": 4.7,
+    "description": "Premium organic quinoa. Complete protein source. 16 oz bag.",
+    "stock": 130,
+    "image": "https://images.pexels.com/photos/5966637/pexels-photo-5966637.jpeg",
+    "reviews": [
+      {
+        "user": "Rachel N.",
+        "comment": "Great quality quinoa!",
+        "rating": 5,
+        "date": "2024-11-19T14:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "olive-oil",
+    "title": "Extra Virgin Olive Oil",
+    "brand": "Bertolli",
+    "category": "Oils & Condiments",
+    "price": 12.99,
+    "rating": 4.8,
+    "description": "Cold-pressed extra virgin olive oil. Perfect for cooking and salads. 750ml bottle.",
+    "stock": 100,
+    "image": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg",
+    "reviews": [
+      {
+        "user": "Tony A.",
+        "comment": "Excellent flavor!",
+        "rating": 5,
+        "date": "2024-11-14T16:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "almond-butter",
+    "title": "Natural Almond Butter",
+    "brand": "Justin's",
+    "category": "Spreads & Nuts",
+    "price": 9.99,
+    "rating": 4.7,
+    "description": "Creamy natural almond butter. No added sugar or oils. 16 oz jar.",
+    "stock": 85,
+    "image": "https://images.pexels.com/photos/4518656/pexels-photo-4518656.jpeg",
+    "reviews": [
+      {
+        "user": "Nicole F.",
+        "comment": "So creamy and delicious!",
+        "rating": 5,
+        "date": "2024-11-13T11:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "organic-honey",
+    "title": "Raw Organic Honey",
+    "brand": "Nature Nate's",
+    "category": "Sweeteners",
+    "price": 11.99,
+    "rating": 4.9,
+    "description": "Pure raw organic honey. Unfiltered and unpasteurized. 16 oz bottle.",
+    "stock": 95,
+    "image": "https://images.pexels.com/photos/2638026/pexels-photo-2638026.jpeg",
+    "reviews": [
+      {
+        "user": "Karen S.",
+        "comment": "Best honey ever!",
+        "rating": 5,
+        "date": "2024-11-21T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "black-beans",
+    "title": "Organic Black Beans",
+    "brand": "Eden Foods",
+    "category": "Canned Goods",
+    "price": 1.99,
+    "rating": 4.5,
+    "description": "Organic black beans, ready to eat. No added salt. 15 oz can.",
+    "stock": 280,
+    "image": "https://images.pexels.com/photos/2281160/pexels-photo-2281160.jpeg",
+    "reviews": [
+      {
+        "user": "Carlos M.",
+        "comment": "Great taste and quality!",
+        "rating": 4,
+        "date": "2024-11-12T15:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "coconut-milk",
+    "title": "Organic Coconut Milk",
+    "brand": "Thai Kitchen",
+    "category": "Canned Goods",
+    "price": 2.99,
+    "rating": 4.6,
+    "description": "Rich and creamy organic coconut milk. Perfect for curries and smoothies. 13.5 oz can.",
+    "stock": 160,
+    "image": "https://images.pexels.com/photos/2252584/pexels-photo-2252584.jpeg",
+    "reviews": [
+      {
+        "user": "Maya L.",
+        "comment": "Perfect for Thai cooking!",
+        "rating": 5,
+        "date": "2024-11-18T12:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "organic-coffee",
+    "title": "Organic Medium Roast Coffee",
+    "brand": "Peet's Coffee",
+    "category": "Beverages",
+    "price": 13.99,
+    "rating": 4.8,
+    "description": "Smooth organic medium roast coffee. Fair trade certified. 12 oz bag.",
+    "stock": 120,
+    "image": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg",
+    "reviews": [
+      {
+        "user": "James P.",
+        "comment": "Perfect morning coffee!",
+        "rating": 5,
+        "date": "2024-11-20T07:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "green-tea",
+    "title": "Organic Green Tea",
+    "brand": "Bigelow",
+    "category": "Beverages",
+    "price": 5.49,
+    "rating": 4.6,
+    "description": "Premium organic green tea bags. Rich in antioxidants. 20 count box.",
+    "stock": 140,
+    "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg",
+    "reviews": [
+      {
+        "user": "Linda C.",
+        "comment": "Very refreshing!",
+        "rating": 5,
+        "date": "2024-11-17T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "orange-juice",
+    "title": "Fresh Squeezed Orange Juice",
+    "brand": "Tropicana",
+    "category": "Beverages",
+    "price": 6.99,
+    "rating": 4.7,
+    "description": "100% pure squeezed orange juice. No added sugar. 52 fl oz bottle.",
+    "stock": 110,
+    "image": "https://images.pexels.com/photos/1337824/pexels-photo-1337824.jpeg",
+    "reviews": [
+      {
+        "user": "Steven H.",
+        "comment": "Tastes like fresh oranges!",
+        "rating": 5,
+        "date": "2024-11-19T08:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "almonds",
+    "title": "Raw Almonds",
+    "brand": "Blue Diamond",
+    "category": "Nuts & Seeds",
+    "price": 8.99,
+    "rating": 4.7,
+    "description": "Raw whole almonds. Great for snacking or baking. 16 oz bag.",
+    "stock": 175,
+    "image": "https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg",
+    "reviews": [
+      {
+        "user": "Diana W.",
+        "comment": "Fresh and crunchy!",
+        "rating": 5,
+        "date": "2024-11-16T13:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "oatmeal",
+    "title": "Organic Rolled Oats",
+    "brand": "Quaker",
+    "category": "Breakfast",
+    "price": 4.99,
+    "rating": 4.6,
+    "description": "100% whole grain organic rolled oats. Heart healthy. 18 oz container.",
+    "stock": 190,
+    "image": "https://images.pexels.com/photos/216951/pexels-photo-216951.jpeg",
+    "reviews": [
+      {
+        "user": "Betty J.",
+        "comment": "Perfect for breakfast!",
+        "rating": 5,
+        "date": "2024-11-15T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "granola",
+    "title": "Honey Almond Granola",
+    "brand": "Kind",
+    "category": "Breakfast",
+    "price": 6.49,
+    "rating": 4.7,
+    "description": "Crunchy granola with honey and almonds. 11 oz bag.",
+    "stock": 145,
+    "image": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg",
+    "reviews": [
+      {
+        "user": "Mark T.",
+        "comment": "Delicious with yogurt!",
+        "rating": 5,
+        "date": "2024-11-18T08:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "peanut-butter",
+    "title": "Creamy Peanut Butter",
+    "brand": "Jif",
+    "category": "Spreads & Nuts",
+    "price": 4.99,
+    "rating": 4.8,
+    "description": "Classic creamy peanut butter. Great for sandwiches. 16 oz jar.",
+    "stock": 200,
+    "image": "https://images.pexels.com/photos/4518660/pexels-photo-4518660.jpeg",
+    "reviews": [
+      {
+        "user": "Susan D.",
+        "comment": "Kids love it!",
+        "rating": 5,
+        "date": "2024-11-14T14:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "maple-syrup",
+    "title": "Pure Maple Syrup",
+    "brand": "Butternut Mountain Farm",
+    "category": "Sweeteners",
+    "price": 14.99,
+    "rating": 4.8,
+    "description": "100% pure Vermont maple syrup. Grade A Dark Amber. 12 oz bottle.",
+    "stock": 80,
+    "image": "https://images.pexels.com/photos/8477895/pexels-photo-8477895.jpeg",
+    "reviews": [
+      {
+        "user": "Paul R.",
+        "comment": "Authentic maple flavor!",
+        "rating": 5,
+        "date": "2024-11-13T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "avocados",
+    "title": "Hass Avocados",
+    "brand": "Fresh Produce Co",
+    "category": "Fruits",
+    "price": 3.99,
+    "rating": 4.6,
+    "description": "Ripe Hass avocados. Perfect for guacamole or toast. Pack of 4.",
+    "stock": 160,
+    "image": "https://images.pexels.com/photos/557659/pexels-photo-557659.jpeg",
+    "reviews": [
+      {
+        "user": "Jessica L.",
+        "comment": "Always perfectly ripe!",
+        "rating": 5,
+        "date": "2024-11-20T11:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "blueberries",
+    "title": "Fresh Blueberries",
+    "brand": "Driscoll's",
+    "category": "Fruits",
+    "price": 4.99,
+    "rating": 4.7,
+    "description": "Sweet fresh blueberries. Rich in antioxidants. 6 oz container.",
+    "stock": 135,
+    "image": "https://images.pexels.com/photos/2539169/pexels-photo-2539169.jpeg",
+    "reviews": [
+      {
+        "user": "Brian K.",
+        "comment": "So sweet and fresh!",
+        "rating": 5,
+        "date": "2024-11-17T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "red-bell-peppers",
+    "title": "Red Bell Peppers",
+    "brand": "Garden Fresh",
+    "category": "Vegetables",
+    "price": 2.99,
+    "rating": 4.5,
+    "description": "Crisp and sweet red bell peppers. Perfect for salads and stir-fries. Per pound.",
+    "stock": 180,
+    "image": "https://images.pexels.com/photos/594137/pexels-photo-594137.jpeg",
+    "reviews": [
+      {
+        "user": "Angela M.",
+        "comment": "Very fresh and colorful!",
+        "rating": 4,
+        "date": "2024-11-16T15:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "broccoli",
+    "title": "Fresh Broccoli",
+    "brand": "Healthy Greens",
+    "category": "Vegetables",
+    "price": 2.49,
+    "rating": 4.5,
+    "description": "Fresh broccoli crowns. Rich in vitamins and fiber. Per pound.",
+    "stock": 170,
+    "image": "https://images.pexels.com/photos/47347/broccoli-vegetable-food-healthy-47347.jpeg",
+    "reviews": [
+      {
+        "user": "Kevin P.",
+        "comment": "Good quality broccoli!",
+        "rating": 4,
+        "date": "2024-11-15T12:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "sweet-potatoes",
+    "title": "Organic Sweet Potatoes",
+    "brand": "Root Harvest",
+    "category": "Vegetables",
+    "price": 2.99,
+    "rating": 4.6,
+    "description": "Sweet and nutritious organic sweet potatoes. Great for roasting. Per pound.",
+    "stock": 200,
+    "image": "https://images.pexels.com/photos/89816/pexels-photo-89816.jpeg",
+    "reviews": [
+      {
+        "user": "Michelle B.",
+        "comment": "Perfect for baking!",
+        "rating": 5,
+        "date": "2024-11-19T13:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "garlic",
+    "title": "Fresh Garlic Bulbs",
+    "brand": "Spice Farm",
+    "category": "Vegetables",
+    "price": 1.99,
+    "rating": 4.6,
+    "description": "Fresh garlic bulbs. Essential for cooking. 3-pack.",
+    "stock": 250,
+    "image": "https://images.pexels.com/photos/928836/pexels-photo-928836.jpeg",
+    "reviews": [
+      {
+        "user": "Anthony G.",
+        "comment": "Strong and flavorful!",
+        "rating": 5,
+        "date": "2024-11-18T14:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "onions",
+    "title": "Yellow Onions",
+    "brand": "Farm Fresh",
+    "category": "Vegetables",
+    "price": 1.49,
+    "rating": 4.4,
+    "description": "Fresh yellow onions. Kitchen staple for cooking. 3 lb bag.",
+    "stock": 300,
+    "image": "https://images.pexels.com/photos/2286776/pexels-photo-2286776.jpeg",
+    "reviews": [
+      {
+        "user": "Barbara H.",
+        "comment": "Good quality for the price!",
+        "rating": 4,
+        "date": "2024-11-14T11:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "lemons",
+    "title": "Fresh Lemons",
+    "brand": "Citrus Grove",
+    "category": "Fruits",
+    "price": 0.99,
+    "rating": 4.5,
+    "description": "Juicy fresh lemons. Perfect for cooking and drinks. Per pound.",
+    "stock": 220,
+    "image": "https://images.pexels.com/photos/1414110/pexels-photo-1414110.jpeg",
+    "reviews": [
+      {
+        "user": "Christine V.",
+        "comment": "Very juicy!",
+        "rating": 5,
+        "date": "2024-11-17T09:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "apples",
+    "title": "Honeycrisp Apples",
+    "brand": "Orchard Fresh",
+    "category": "Fruits",
+    "price": 3.49,
+    "rating": 4.8,
+    "description": "Crisp and sweet Honeycrisp apples. Perfect for snacking. Per pound.",
+    "stock": 190,
+    "image": "https://images.pexels.com/photos/206959/pexels-photo-206959.jpeg",
+    "reviews": [
+      {
+        "user": "Richard S.",
+        "comment": "Best apples ever!",
+        "rating": 5,
+        "date": "2024-11-16T10:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "oranges",
+    "title": "Navel Oranges",
+    "brand": "Sunny Grove",
+    "category": "Fruits",
+    "price": 2.49,
+    "rating": 4.6,
+    "description": "Sweet and juicy navel oranges. Easy to peel. 3 lb bag.",
+    "stock": 175,
+    "image": "https://images.pexels.com/photos/161559/background-bitter-breakfast-bright-161559.jpeg",
+    "reviews": [
+      {
+        "user": "Dorothy M.",
+        "comment": "So sweet and fresh!",
+        "rating": 5,
+        "date": "2024-11-15T14:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "grapes",
+    "title": "Red Seedless Grapes",
+    "brand": "Vine Fresh",
+    "category": "Fruits",
+    "price": 3.99,
+    "rating": 4.7,
+    "description": "Sweet red seedless grapes. Great for snacking. 2 lb bag.",
+    "stock": 155,
+    "image": "https://images.pexels.com/photos/23042/pexels-photo.jpg",
+    "reviews": [
+      {
+        "user": "Helen T.",
+        "comment": "Perfect for kids' lunches!",
+        "rating": 5,
+        "date": "2024-11-19T11:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "cucumber",
+    "title": "English Cucumber",
+    "brand": "Fresh Farms",
+    "category": "Vegetables",
+    "price": 1.99,
+    "rating": 4.5,
+    "description": "Crisp English cucumber. Great for salads and snacking. Each.",
+    "stock": 210,
+    "image": "https://images.pexels.com/photos/37528/cucumber-salad-food-healthy-37528.jpeg",
+    "reviews": [
+      {
+        "user": "George F.",
+        "comment": "Very fresh and crunchy!",
+        "rating": 4,
+        "date": "2024-11-18T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "lettuce",
+    "title": "Romaine Lettuce",
+    "brand": "Green Valley",
+    "category": "Vegetables",
+    "price": 2.49,
+    "rating": 4.6,
+    "description": "Fresh romaine lettuce hearts. Perfect for Caesar salad. Pack of 3.",
+    "stock": 165,
+    "image": "https://images.pexels.com/photos/1352199/pexels-photo-1352199.jpeg",
+    "reviews": [
+      {
+        "user": "Nancy W.",
+        "comment": "Always crispy!",
+        "rating": 5,
+        "date": "2024-11-17T12:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "mushrooms",
+    "title": "Baby Bella Mushrooms",
+    "brand": "Mushroom Masters",
+    "category": "Vegetables",
+    "price": 3.49,
+    "rating": 4.7,
+    "description": "Fresh baby bella mushrooms. Great for sautéing. 8 oz package.",
+    "stock": 140,
+    "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
+    "reviews": [
+      {
+        "user": "Frank L.",
+        "comment": "Great flavor and texture!",
+        "rating": 5,
+        "date": "2024-11-16T14:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "potatoes",
+    "title": "Russet Potatoes",
+    "brand": "Farm Fresh",
+    "category": "Vegetables",
+    "price": 2.99,
+    "rating": 4.5,
+    "description": "Classic russet potatoes. Perfect for baking or mashing. 5 lb bag.",
+    "stock": 230,
+    "image": "https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg",
+    "reviews": [
+      {
+        "user": "Ruth A.",
+        "comment": "Great for baked potatoes!",
+        "rating": 4,
+        "date": "2024-11-15T13:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "zucchini",
+    "title": "Fresh Zucchini",
+    "brand": "Garden Fresh",
+    "category": "Vegetables",
+    "price": 1.99,
+    "rating": 4.4,
+    "description": "Fresh green zucchini. Versatile vegetable for many dishes. Per pound.",
+    "stock": 185,
+    "image": "https://images.pexels.com/photos/1268101/pexels-photo-1268101.jpeg",
+    "reviews": [
+      {
+        "user": "Walter K.",
+        "comment": "Good quality zucchini!",
+        "rating": 4,
+        "date": "2024-11-14T10:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "pork-chops",
+    "title": "Bone-In Pork Chops",
+    "brand": "Premium Meats",
+    "category": "Meat & Poultry",
+    "price": 7.99,
+    "rating": 4.6,
+    "description": "Thick-cut bone-in pork chops. Perfect for grilling. Per pound.",
+    "stock": 90,
+    "image": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg",
+    "reviews": [
+      {
+        "user": "Gary S.",
+        "comment": "Very tender and juicy!",
+        "rating": 5,
+        "date": "2024-11-20T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "bacon",
+    "title": "Thick Cut Bacon",
+    "brand": "Applegate",
+    "category": "Meat & Poultry",
+    "price": 8.99,
+    "rating": 4.8,
+    "description": "Thick cut uncured bacon. No nitrates or nitrites. 12 oz package.",
+    "stock": 125,
+    "image": "https://images.pexels.com/photos/1600727/pexels-photo-1600727.jpeg",
+    "reviews": [
+      {
+        "user": "Betty R.",
+        "comment": "Best bacon ever!",
+        "rating": 5,
+        "date": "2024-11-19T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "shrimp",
+    "title": "Wild Caught Shrimp",
+    "brand": "Ocean's Best",
+    "category": "Seafood",
+    "price": 12.99,
+    "rating": 4.7,
+    "description": "Large wild caught shrimp. Peeled and deveined. 1 lb bag.",
+    "stock": 75,
+    "image": "https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg",
+    "reviews": [
+      {
+        "user": "Carol J.",
+        "comment": "Fresh and delicious!",
+        "rating": 5,
+        "date": "2024-11-18T15:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "butter",
+    "title": "Unsalted Butter",
+    "brand": "Kerrygold",
+    "category": "Dairy",
+    "price": 4.99,
+    "rating": 4.8,
+    "description": "Irish grass-fed unsalted butter. Rich and creamy. 8 oz package.",
+    "stock": 155,
+    "image": "https://images.pexels.com/photos/2067436/pexels-photo-2067436.jpeg",
+    "reviews": [
+      {
+        "user": "Donald P.",
+        "comment": "Amazing quality butter!",
+        "rating": 5,
+        "date": "2024-11-17T11:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "cream-cheese",
+    "title": "Cream Cheese",
+    "brand": "Philadelphia",
+    "category": "Dairy",
+    "price": 3.49,
+    "rating": 4.7,
+    "description": "Classic cream cheese. Perfect for bagels and baking. 8 oz package.",
+    "stock": 190,
+    "image": "https://images.pexels.com/photos/4110256/pexels-photo-4110256.jpeg",
+    "reviews": [
+      {
+        "user": "Sharon M.",
+        "comment": "Always smooth and creamy!",
+        "rating": 5,
+        "date": "2024-11-16T09:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "sour-cream",
+    "title": "Sour Cream",
+    "brand": "Daisy",
+    "category": "Dairy",
+    "price": 2.99,
+    "rating": 4.6,
+    "description": "Classic sour cream. Great for toppings and dips. 16 oz container.",
+    "stock": 170,
+    "image": "https://images.pexels.com/photos/6086442/pexels-photo-6086442.jpeg",
+    "reviews": [
+      {
+        "user": "Larry B.",
+        "comment": "Perfect consistency!",
+        "rating": 4,
+        "date": "2024-11-15T10:45:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "tortillas",
+    "title": "Flour Tortillas",
+    "brand": "Mission",
+    "category": "Bakery",
+    "price": 3.99,
+    "rating": 4.6,
+    "description": "Soft flour tortillas. Perfect for burritos and wraps. 10 count.",
+    "stock": 200,
+    "image": "https://images.pexels.com/photos/6544376/pexels-photo-6544376.jpeg",
+    "reviews": [
+      {
+        "user": "Margaret H.",
+        "comment": "Great for tacos!",
+        "rating": 5,
+        "date": "2024-11-19T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "bagels",
+    "title": "Plain Bagels",
+    "brand": "Thomas'",
+    "category": "Bakery",
+    "price": 4.49,
+    "rating": 4.5,
+    "description": "Classic plain bagels. Fresh and soft. 6 count.",
+    "stock": 145,
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg",
+    "reviews": [
+      {
+        "user": "Joseph C.",
+        "comment": "Perfect for breakfast!",
+        "rating": 4,
+        "date": "2024-11-18T07:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "cereal",
+    "title": "Honey Nut Cheerios",
+    "brand": "General Mills",
+    "category": "Breakfast",
+    "price": 4.99,
+    "rating": 4.7,
+    "description": "Classic honey nut cereal. Heart healthy whole grain. 12 oz box.",
+    "stock": 180,
+    "image": "https://images.pexels.com/photos/5477814/pexels-photo-5477814.jpeg",
+    "reviews": [
+      {
+        "user": "Sandra K.",
+        "comment": "Kids favorite cereal!",
+        "rating": 5,
+        "date": "2024-11-17T08:00:00.000Z"
+      }
+    ]
+  }
+]
